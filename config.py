@@ -1,7 +1,7 @@
 # config.py
 
 # --- Google Sheets ---
-SPREADSHEET_ID = '1NDp5gwAYsdj-tC4mNqSDECJ9eXwD6fG4zFK6vFcy17E' 
+SPREADSHEET_ID = '1nVlH3ZkC_H7xHBRTiYAyS0JQ5JiqF71OALdWcbhCnbc' 
 WORKSHEET_NAME = 'Ad Scraper'                   
 CREDENTIALS_FILE = 'creds.json'             
 
